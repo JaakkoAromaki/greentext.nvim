@@ -3,7 +3,7 @@ return {
   fg = "#ebdbb2",
 
   red = "#cc241d",
-  green = "#98971a",
+  green = "#257d3d",
   yellow = "#d79921",
   blue = "#458588",
   purple = "#b16286",
