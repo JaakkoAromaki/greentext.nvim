@@ -25,5 +25,9 @@ return function(colors)
     Type = {
       fg = colors.green_lgte,
     },
+    StatusLine = {
+      fg = colors.fg,
+      bg = colors.bg_alt,
+    },
   }
 end

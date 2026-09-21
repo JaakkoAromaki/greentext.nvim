@@ -1,6 +1,6 @@
 return {
   bg        = "#171717",
-  bg_alt    = "#1D1D1D",
+  bg_alt    = "#202020",
   surface   = "#242424",
   surface2  = "#2C2C2C",
   border    = "#383838",
