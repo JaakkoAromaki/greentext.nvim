@@ -30,7 +30,7 @@ return function(colors)
 
     -- Functions / identifiers
     Function = {
-      fg = colors.green_bri,
+      fg = colors.green_brzi,
     },
     Identifier = {
       fg = colors.fg,
@@ -126,5 +126,8 @@ return function(colors)
       fg = colors.bg,
       bg = colors.green,
     },
+    StatusLine = {
+      bg = colors.red,
+    }
   }
 end
