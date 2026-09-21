@@ -23,7 +23,23 @@ return function(colors)
     },
 
     Type = {
-      fg = colors.green_lgt,
+      fg = colors.green_lgte,
+    },
+    -- Literals
+    String = {
+      fg = colors.green,
+    },
+    Character = {
+      fg = colors.green,
+    },
+    Number = {
+      fg = colors.blue,
+    },
+    Boolean = {
+      fg = colors.green,
+    },
+    Float = {
+      fg = colors.green,
     },
   }
 end
