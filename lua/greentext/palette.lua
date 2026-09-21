@@ -22,7 +22,7 @@ return {
   blue      = "#6095C9",
   cyan      = "#55AFA5",
   purple    = "#9A7BC4",
-  pink      = "#C4779A",
+  pink      = "#d089a9",
 
   error     = "#D45D5D",
   warn      = "#D99A4A",
