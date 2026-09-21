@@ -14,7 +14,7 @@ return {
   green_bri = "#32A052",
   green_lgt = "#4DBB68",
   green_dim = "#1F6633",
-  green_deep= "#174D27",
+  green_deep= "#28673b",
 
   red       = "#D45D5D",
   orange    = "#D99A4A",
