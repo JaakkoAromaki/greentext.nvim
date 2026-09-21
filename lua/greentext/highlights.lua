@@ -126,8 +126,5 @@ return function(colors)
       fg = colors.bg,
       bg = colors.green,
     },
-    StatusLine = {
-      bg = colors.red,
-    }
   }
 end
