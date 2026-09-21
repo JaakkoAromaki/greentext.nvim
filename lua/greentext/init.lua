@@ -1,11 +1,7 @@
 local M = {}
 
 function M.setup()
-<<<<<<< HEAD
   local colors = require("greentext.palette")
-=======
-  local colors = require("greentext.pallette")
->>>>>>> origin
   local highlights = require("greentext.highlights")(colors)
 
   vim.cmd("highlight clear")
