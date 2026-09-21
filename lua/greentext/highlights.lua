@@ -6,7 +6,7 @@ return function(colors)
     },
 
     Comment = {
-      fg = colors.gray,
+      fg = colors.fg_muted,
       italic = true,
     },
 
@@ -15,15 +15,15 @@ return function(colors)
     },
 
     Function = {
-      fg = colors.blue,
+      fg = colors.green_bri,
     },
 
     Keyword = {
-      fg = colors.red,
+      fg = colors.green_deep,
     },
 
     Type = {
-      fg = colors.yellow,
+      fg = colors.green_lgt,
     },
   }
 end

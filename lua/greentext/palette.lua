@@ -1,14 +1,38 @@
 return {
-  bg = "#171717",
-  fg = "#ebdbb2",
+  bg        = "#171717",
+  bg_alt    = "#1D1D1D",
+  surface   = "#242424",
+  surface2  = "#2C2C2C",
+  border    = "#383838",
+  
+  fg        = "#D6D6D6",
+  fg_muted  = "#858585",
+  fg_dim    = "#5F5F5F",
 
-  red = "#cc241d",
-  green = "#257d3d",
-  yellow = "#d79921",
-  blue = "#458588",
-  purple = "#b16286",
-  aqua = "#689d6a",
-  orange = "#d65d0e",
+  -- primary
+  green     = "#257D3D",
+  green_bri = "#32A052",
+  green_lgt = "#4DBB68",
+  green_dim = "#1F6633",
+  green_deep= "#174D27",
 
-  gray = "#928374",
+  red       = "#D45D5D",
+  orange    = "#D99A4A",
+  yellow    = "#C8B85A",
+  blue      = "#6095C9",
+  cyan      = "#55AFA5",
+  purple    = "#9A7BC4",
+  pink      = "#C4779A",
+
+  error     = "#D45D5D",
+  warn      = "#D99A4A",
+  info      = "#6095C9",
+  hint      = "#55AFA5",
+
+  -- Special
+  selection = "#294D34",
+  cursor    = "#32A052",
+  match     = "#315B3C",
+
+  gray = "#5c5c5b",
 }
